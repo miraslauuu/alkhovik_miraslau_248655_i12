@@ -1,0 +1,3 @@
+/Users/miraslau/alkhovik_miraslau_248655_i12/cmake-build-debug/CMakeFiles/alkhovik_miraslau_248655_i12.dir
+/Users/miraslau/alkhovik_miraslau_248655_i12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miraslau/alkhovik_miraslau_248655_i12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
